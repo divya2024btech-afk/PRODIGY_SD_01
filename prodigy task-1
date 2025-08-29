@@ -1,0 +1,4 @@
+Enter temperature value: 25
+Enter unit (C for Celsius, F for Fahrenheit, K for Kelvin): c
+Fahrenheit: 77.0 °F
+Kelvin: 298.15 K
